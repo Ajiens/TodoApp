@@ -1,16 +1,5 @@
-# todo_app
+Alwan Takahashi Aditama
+Sistem Informasi
 
-A new Flutter project.
+https://github.com/Ajiens/TodoApp/assets/124881916/5e8ced74-9758-4011-ab47-5a6481d6d968
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
